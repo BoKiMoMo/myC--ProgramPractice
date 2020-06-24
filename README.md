@@ -9,3 +9,5 @@
 * [範例程式](sampleCode/README.md)
 
 * [章節目錄](chapterDemo/README.md)
+
+*[簡易好懂指標教學](https://ithelp.ithome.com.tw/articles/10229956)
