@@ -1,2 +1,0 @@
-C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\6-Chapter\6-9-FibonacciFunction\Debug\6-9-FibonacciFunction.exe
-C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\6-Chapter\6-9-FibonacciFunction\Debug\6-9-FibonacciFunction.pdb

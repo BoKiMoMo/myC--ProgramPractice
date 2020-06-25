@@ -1,2 +1,0 @@
-C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\6-Chapter\6-8-RecursiveFunction\Debug\6-8-RecursiveFunction.exe
-C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\6-Chapter\6-8-RecursiveFunction\Debug\6-8-RecursiveFunction.pdb

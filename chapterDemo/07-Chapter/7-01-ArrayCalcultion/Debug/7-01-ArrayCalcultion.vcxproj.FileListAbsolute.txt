@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\6-Chapter\7-01-ArrayCalcultion\Debug\7-01-ArrayCalcultion.exe
+C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\6-Chapter\7-01-ArrayCalcultion\Debug\7-01-ArrayCalcultion.pdb
+C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-01-ArrayCalcultion\Debug\7-01-ArrayCalcultion.exe
+C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-01-ArrayCalcultion\Debug\7-01-ArrayCalcultion.pdb
