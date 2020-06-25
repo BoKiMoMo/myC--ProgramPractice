@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-04-BarChartPrinting\Debug\7-04-BarChartPrinting.exe
+C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-04-BarChartPrinting\Debug\7-04-BarChartPrinting.pdb
