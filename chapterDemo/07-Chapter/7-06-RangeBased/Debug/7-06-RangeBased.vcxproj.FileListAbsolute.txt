@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-06-RangeBased\Debug\7-06-RangeBased.exe
+C:\Users\User\Desktop\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-06-RangeBased\Debug\7-06-RangeBased.pdb
