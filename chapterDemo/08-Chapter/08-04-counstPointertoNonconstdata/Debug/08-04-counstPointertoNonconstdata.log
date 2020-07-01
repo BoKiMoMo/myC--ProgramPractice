@@ -1,0 +1,2 @@
+﻿  counstPointertoNonconstdata_Main.cpp
+C:\Users\aacd8\Desktop\git-Demo\myC--ProgramPractice\chapterDemo\08-Chapter\08-04-counstPointertoNonconstdata\counstPointertoNonconstdata_Main.cpp(15,2): error C3892: 'ptr': 無法對 const 變數進行指定動作

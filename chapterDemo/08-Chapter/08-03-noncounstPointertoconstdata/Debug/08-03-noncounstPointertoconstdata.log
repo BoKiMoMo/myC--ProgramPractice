@@ -1,0 +1,2 @@
+﻿  noncounstPointertoconstdata_Main.cpp
+C:\Users\aacd8\Desktop\git-Demo\myC--ProgramPractice\chapterDemo\08-Chapter\08-03-noncounstPointertoconstdata\noncounstPointertoconstdata_Main.cpp(16,3): error C3892: 'xPtr': 無法對 const 變數進行指定動作
