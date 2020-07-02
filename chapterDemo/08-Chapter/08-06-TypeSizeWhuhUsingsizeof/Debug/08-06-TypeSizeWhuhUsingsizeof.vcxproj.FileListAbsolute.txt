@@ -1,0 +1,2 @@
+C:\Users\aacd8\Desktop\git-Demo\myC--ProgramPractice\chapterDemo\08-Chapter\08-06-TypeSizeWhuhUsingsizeof\Debug\08-06-TypeSizeWhuhUsingsizeof.exe
+C:\Users\aacd8\Desktop\git-Demo\myC--ProgramPractice\chapterDemo\08-Chapter\08-06-TypeSizeWhuhUsingsizeof\Debug\08-06-TypeSizeWhuhUsingsizeof.pdb
