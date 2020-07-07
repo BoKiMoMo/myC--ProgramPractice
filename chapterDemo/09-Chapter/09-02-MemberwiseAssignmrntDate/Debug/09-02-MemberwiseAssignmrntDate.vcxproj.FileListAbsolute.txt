@@ -1,0 +1,2 @@
+C:\Users\aacd8\Desktop\git-Demo\myC--ProgramPractice\chapterDemo\09-Chapter\09-02-MemberwiseAssignmrntDate\Debug\09-02-MemberwiseAssignmrntDate.exe
+C:\Users\aacd8\Desktop\git-Demo\myC--ProgramPractice\chapterDemo\09-Chapter\09-02-MemberwiseAssignmrntDate\Debug\09-02-MemberwiseAssignmrntDate.pdb
