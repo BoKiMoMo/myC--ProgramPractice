@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10-03-DataClassOverload", "10-03-DataClassOverload.vcxproj", "{3484EF94-05CC-463F-8DC7-07B3147B6583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3484EF94-05CC-463F-8DC7-07B3147B6583}.Debug|x64.ActiveCfg = Debug|x64
+		{3484EF94-05CC-463F-8DC7-07B3147B6583}.Debug|x64.Build.0 = Debug|x64
+		{3484EF94-05CC-463F-8DC7-07B3147B6583}.Debug|x86.ActiveCfg = Debug|Win32
+		{3484EF94-05CC-463F-8DC7-07B3147B6583}.Debug|x86.Build.0 = Debug|Win32
+		{3484EF94-05CC-463F-8DC7-07B3147B6583}.Release|x64.ActiveCfg = Release|x64
+		{3484EF94-05CC-463F-8DC7-07B3147B6583}.Release|x64.Build.0 = Release|x64
+		{3484EF94-05CC-463F-8DC7-07B3147B6583}.Release|x86.ActiveCfg = Release|Win32
+		{3484EF94-05CC-463F-8DC7-07B3147B6583}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E4C3C74-58FE-4EB3-B240-57E175EBFA16}
+	EndGlobalSection
+EndGlobal
