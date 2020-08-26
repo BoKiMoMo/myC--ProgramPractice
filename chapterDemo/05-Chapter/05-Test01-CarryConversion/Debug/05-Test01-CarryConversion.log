@@ -1,0 +1,9 @@
+﻿  CarryConversion_Main.cpp
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\05-Chapter\05-Test01-CarryConversion\CarryConversion_Main.cpp(50,11): warning C4244: '=': 將 'double' 轉換為 'long'，由於類型不同，可能導致資料遺失
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\05-Chapter\05-Test01-CarryConversion\CarryConversion_Main.cpp(51,11): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\05-Chapter\05-Test01-CarryConversion\CarryConversion_Main.cpp(63,11): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\05-Chapter\05-Test01-CarryConversion\CarryConversion_Main.cpp(68,12): warning C4244: '=': 將 'double' 轉換為 'long'，由於類型不同，可能導致資料遺失
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\05-Chapter\05-Test01-CarryConversion\CarryConversion_Main.cpp(84,10): warning C4244: '=': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\05-Chapter\05-Test01-CarryConversion\CarryConversion_Main.cpp(88,10): warning C4244: '=': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\05-Chapter\05-Test01-CarryConversion\CarryConversion_Main.cpp(92,10): warning C4244: '=': 將 'double' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  05-Test01-CarryConversion.vcxproj -> F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\05-Chapter\05-Test01-CarryConversion\Debug\05-Test01-CarryConversion.exe
