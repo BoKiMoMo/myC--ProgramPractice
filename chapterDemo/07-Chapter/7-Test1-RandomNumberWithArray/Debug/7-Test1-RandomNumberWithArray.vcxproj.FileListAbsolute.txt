@@ -1,0 +1,2 @@
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Test1-RandomNumberWithArray\Debug\7-Test1-RandomNumberWithArray.exe
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Test1-RandomNumberWithArray\Debug\7-Test1-RandomNumberWithArray.pdb
