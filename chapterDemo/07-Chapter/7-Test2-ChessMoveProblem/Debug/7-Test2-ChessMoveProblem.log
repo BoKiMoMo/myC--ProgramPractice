@@ -1,0 +1,7 @@
+﻿  ChessMoveProblem.cpp
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Test2-ChessMoveProblem\ChessMoveProblem.cpp(43,26): warning C4018: '<=': signed/unsigned 不相符
+  ChessMoveProblem_Main.cpp
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Test2-ChessMoveProblem\ChessMoveProblem_Main.cpp(5,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Test2-ChessMoveProblem\ChessMoveProblem.cpp(238): warning C4715: 'ChessMoveProblem::atuoMove': 不是所有控制路徑都傳回值
+  7-Test2-ChessMoveProblem.vcxproj -> F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Test2-ChessMoveProblem\Debug\7-Test2-ChessMoveProblem.exe
