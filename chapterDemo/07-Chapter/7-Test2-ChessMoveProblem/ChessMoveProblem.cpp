@@ -156,6 +156,7 @@ int ChessMoveProblem::checkMove(int m)
 	}
 
 }
+
 void ChessMoveProblem::print(const array<array<int, columns>, rows>& a)
 {
 	cout << endl;
