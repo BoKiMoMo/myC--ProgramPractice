@@ -1,0 +1,2 @@
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise2-printArray\Debug\7-Exercise2-printArray.exe
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise2-printArray\Debug\7-Exercise2-printArray.pdb

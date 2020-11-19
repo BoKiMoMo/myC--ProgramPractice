@@ -1,0 +1,2 @@
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise1-CheckPalindromes\Debug\7-Exercise1-CheckPalindromes.exe
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise1-CheckPalindromes\Debug\7-Exercise1-CheckPalindromes.pdb
