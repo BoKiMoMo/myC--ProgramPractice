@@ -1,0 +1,8 @@
+﻿  _7_Exercise05_One_dimensional_array_maze.cpp
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise05-One-dimensional array maze\_7_Exercise05_One_dimensional_array_maze.cpp(48,38): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise05-One-dimensional array maze\_7_Exercise05_One_dimensional_array_maze.cpp(54,38): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise05-One-dimensional array maze\_7_Exercise05_One_dimensional_array_maze.cpp(60,38): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise05-One-dimensional array maze\_7_Exercise05_One_dimensional_array_maze.cpp(66,38): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise05-One-dimensional array maze\_7_Exercise05_One_dimensional_array_maze.cpp(92): warning C4715: 'maze::getLocation': 不是所有控制路徑都傳回值
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise05-One-dimensional array maze\_7_Exercise05_One_dimensional_array_maze.cpp(119): warning C4715: 'maze::check': 不是所有控制路徑都傳回值
+  7-Exercise05-One-dimensional array maze.vcxproj -> F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\07-Chapter\7-Exercise05-One-dimensional array maze\Debug\7-Exercise05-One-dimensional array maze.exe
