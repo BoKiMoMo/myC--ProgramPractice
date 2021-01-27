@@ -1,0 +1,2 @@
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\10-Chapter\10-Exercise01-10.7\Debug\10-Exercise01-10.7.exe
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\10-Chapter\10-Exercise01-10.7\Debug\10-Exercise01-10.7.pdb
