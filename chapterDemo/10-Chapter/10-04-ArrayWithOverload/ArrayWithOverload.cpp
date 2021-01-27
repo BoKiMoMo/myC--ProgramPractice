@@ -6,8 +6,7 @@
 using namespace std;
 
 Array::Array(int arraySize)
-    : size(arraySize > 0 ? arraySize :
-        throw invalid_argument("Array size must be greater than 0")),
+    : size(arraySize > 0 ? arraySize :throw invalid_argument("Array size must be greater than 0")),
     ptr(new int[size])
 {
     for (size_t i = 0; i < size; ++i)
