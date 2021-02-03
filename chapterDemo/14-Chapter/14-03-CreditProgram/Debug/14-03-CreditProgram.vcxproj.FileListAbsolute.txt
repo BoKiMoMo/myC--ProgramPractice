@@ -1,0 +1,2 @@
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\14-Chapter\14-03-CreditProgram\Debug\14-03-CreditProgram.exe
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\14-Chapter\14-03-CreditProgram\Debug\14-03-CreditProgram.pdb
