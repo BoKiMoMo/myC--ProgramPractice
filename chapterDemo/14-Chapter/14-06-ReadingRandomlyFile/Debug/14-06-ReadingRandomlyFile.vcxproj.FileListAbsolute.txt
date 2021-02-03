@@ -1,0 +1,2 @@
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\14-Chapter\14-06-ReadingRandomlyFile\Debug\14-06-ReadingRandomlyFile.exe
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\14-Chapter\14-06-ReadingRandomlyFile\Debug\14-06-ReadingRandomlyFile.pdb
