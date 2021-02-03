@@ -1,0 +1,2 @@
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\14-Chapter\14-02-ReadAndPrintFile\Debug\14-02-ReadAndPrintFile.exe
+F:\GIT\Git-Demo\myC--ProgramPractice\chapterDemo\14-Chapter\14-02-ReadAndPrintFile\Debug\14-02-ReadAndPrintFile.pdb
